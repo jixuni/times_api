@@ -2,6 +2,7 @@ body{
     background-color: #08aa81
 }
 .container {
+    font-family: Arial, Helvetica, sans-serif;
     height: 900px;
     width: 900px;
     text-align: center;
@@ -20,6 +21,9 @@ form{
     text-align:left;
 }
 p {
-    text-align: center;
-    vertical-align: middle;
+    margin-top: 25px;
+    font-size: 30px;
+}
+#lineTop {
+    font-size: bold;
 }
